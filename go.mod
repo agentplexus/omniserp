@@ -6,7 +6,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/modelcontextprotocol/go-sdk v1.7.0
 	github.com/plexusone/omni-keyring v0.3.0
-	github.com/plexusone/omniskill v0.11.0
+	github.com/plexusone/omniskill v0.12.0
 	github.com/plexusone/vaultguard v0.3.1
 )
 
